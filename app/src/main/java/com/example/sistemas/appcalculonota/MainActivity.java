@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
         //PRIMERA MATERIA
         ed1 = (EditText) findViewById(R.id.ed1);
+
+
         ed2 = (EditText) findViewById(R.id.ed2);
         ed3 = (EditText) findViewById(R.id.ed3);
         tvdef1 = (TextView) findViewById(R.id.tvdef1);
